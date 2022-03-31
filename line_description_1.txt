@@ -1,0 +1,13 @@
+Verona Porta Nuova
+Verona Porta Vescovo 1 50
+S. Martino Buonalbergo 1 110
+Caldiero 1 125
+S. Bonifacio 1 170
+Lonigo 1 200
+Montebello 1 260
+Altavilla-Tavernelle 1 275
+Vicenza 0 320
+Grisignano Di Zocco 1 400
+Lerino 1 360
+Mestrino 1 425
+Padova 0 500

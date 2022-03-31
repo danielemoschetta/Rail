@@ -1,0 +1,11 @@
+Trieste Centrale
+Monfalcone 1 50
+Cervignano-Aquileia-Grado 1 160
+Trieste Airport 0 100
+S. Giorgio Di Nogaro 1 175
+Latisana-Lignano-Bibione 1 200
+Portogruaro-Caorle 0 240
+S. Stino Di Livenza 1 270
+S. Dona Di Piave Jesolo 1 280
+Quarto D'Altino 1 300
+Venezia Mestre 0 350

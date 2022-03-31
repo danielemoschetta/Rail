@@ -1,0 +1,210 @@
+		ESEMPIO 1
+INPUT: line_description.txt + timetables.txt:
+Dati di input letti e controllati
+Il treno 3436 sta partendo alle ore 08:16
+Il treno deve aspettare perche' altrimenti si avvicinera' troppo a quello davanti
+Il ritardo totale e'' di 13. Aumentato di 13 rispetto alla stazione precedente
+Il treno 132 sta partendo alle ore 08:30
+Il treno 764 sta partendo alle ore 08:33
+Il treno 3436 si fermera'/passera' alla stazione Monfalcone  alle ore 08:44 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 3436 e' arrivato al binario 0 della stazione di Monfalcone
+Il treno 132 si fermera'/passera' alla stazione Quarto D'Altino  alle ore 08:48 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 132 sta transitando nella stazione di Quarto D'Altino
+Il treno 132 ha superato 0 treni
+Il treno 3436 sta partendo dalla stazione Monfalcone alle ore 08:49
+Il treno 764 si fermera'/passera' alla stazione Monfalcone  alle ore 08:51 con un ritardo di 13 rispetto alla tabella di marcia
+Il treno 764 sta transitando nella stazione di Monfalcone
+Il treno 764 ha superato 0 treni
+Il treno 132 si fermera'/passera' alla stazione S. Stino Di Livenza  alle ore 09:04 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 132 sta transitando nella stazione di S. Stino Di Livenza
+Il treno 132 ha superato 0 treni
+Il treno 3436 si fermera'/passera' alla stazione Trieste Airport  alle ore 09:12 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 3436 e' arrivato al binario 0 della stazione di Trieste Airport
+Il treno 3436 sta partendo dalla stazione Trieste Airport alle ore 09:17
+Il treno 132 si fermera'/passera' alla stazione Portogruaro-Caorle  alle ore 09:20 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 132 e' arrivato al binario 1 della stazione di Portogruaro-Caorle
+Il treno 764 si fermera'/passera' alla stazione Trieste Airport  alle ore 09:23 con un ritardo di 13 rispetto alla tabella di marcia
+Il treno 764 e' arrivato al binario 0 della stazione di Trieste Airport
+Il treno 764 sta partendo dalla stazione Trieste Airport alle ore 09:28
+Il treno 3436 si fermera'/passera' alla stazione Cervignano-Aquileia-Grado  alle ore 10:00 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 3436 e' arrivato al binario 0 della stazione di Cervignano-Aquileia-Grado
+Il treno 3436 sta partendo dalla stazione Cervignano-Aquileia-Grado alle ore 10:05
+Il treno 764 si fermera'/passera' alla stazione Cervignano-Aquileia-Grado  alle ore 10:13 con un ritardo di 13 rispetto alla tabella di marcia
+Il treno 764 sta transitando nella stazione di Cervignano-Aquileia-Grado
+Il treno 764 ha superato 0 treni
+Il treno 3436 si fermera'/passera' alla stazione Latisana-Lignano-Bibione  alle ore 11:40 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 3436 e' arrivato al binario 0 della stazione di Latisana-Lignano-Bibione
+Il treno 3436 sta partendo dalla stazione Latisana-Lignano-Bibione alle ore 11:45
+Il treno 3436 si fermera'/passera' alla stazione Portogruaro-Caorle  alle ore 12:10 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 3436 e' arrivato al binario 0 della stazione di Portogruaro-Caorle
+Il treno 135 sta partendo alle ore 12:10
+Il treno 3436 sta partendo dalla stazione Portogruaro-Caorle alle ore 12:15
+Il treno 3436 si fermera'/passera' alla stazione S. Stino Di Livenza  alle ore 12:30 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 3436 e' arrivato al binario 0 della stazione di S. Stino Di Livenza
+Il treno 3436 sta partendo dalla stazione S. Stino Di Livenza alle ore 12:35
+Il treno 135 si fermera'/passera' alla stazione Quarto D'Altino  alle ore 13:20 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 135 sta transitando nella stazione di Quarto D'Altino
+Il treno 135 ha superato 0 treni
+Il treno 3436 si fermera'/passera' alla stazione Quarto D'Altino  alle ore 13:40 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 3436 e' arrivato al binario 0 della stazione di Quarto D'Altino
+Il treno 3436 sta partendo dalla stazione Quarto D'Altino alle ore 13:45
+Il treno 135 si fermera'/passera' alla stazione S. Stino Di Livenza  alle ore 14:00 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 135 sta transitando nella stazione di S. Stino Di Livenza
+Il treno 135 ha superato 0 treni
+Il treno 3436 si fermera'/passera' alla stazione Venezia Mestre  alle ore 14:17 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 3436 e' arrivato al binario 0 della stazione di Venezia Mestre
+Arrivato alla stazione finale. Ha finito alle ore: 14:22
+Il treno 135 si fermera'/passera' alla stazione Portogruaro-Caorle  alle ore 15:00 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 135 e' arrivato al binario 3 della stazione di Portogruaro-Caorle
+Il treno 140 sta partendo alle ore 23:50
+
+		ESEMPIO 2
+INPUT: line_descriptiontxt + timetables_1.txt:
+Dati di input letti e controllati
+Il treno 411 sta partendo alle ore 05:00
+Il treno 411 si fermera'/passera' alla stazione Quarto D'Altino  alle ore 05:30 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 411 sta transitando nella stazione di Quarto D'Altino
+Il treno 411 ha superato 0 treni
+Il treno 411 si fermera'/passera' alla stazione S. Stino Di Livenza  alle ore 06:40 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 411 sta transitando nella stazione di S. Stino Di Livenza
+Il treno 411 ha superato 0 treni
+Il treno 411 si fermera'/passera' alla stazione Portogruaro-Caorle  alle ore 07:30 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 411 e' arrivato al binario 1 della stazione di Portogruaro-Caorle
+Il treno 927 sta partendo alle ore 11:40
+Il treno 927 si fermera'/passera' alla stazione Monfalcone  alle ore 12:10 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 927 sta transitando nella stazione di Monfalcone
+Il treno 927 ha superato 0 treni
+Il treno 927 si fermera'/passera' alla stazione Trieste Airport  alle ore 12:30 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 927 e' arrivato al binario 0 della stazione di Trieste Airport
+Il treno 927 sta partendo dalla stazione Trieste Airport alle ore 12:35
+Il treno 927 si fermera'/passera' alla stazione Cervignano-Aquileia-Grado  alle ore 13:20 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 927 sta transitando nella stazione di Cervignano-Aquileia-Grado
+Il treno 927 ha superato 0 treni
+Il treno 156 sta partendo alle ore 20:20
+Il treno 156 si fermera'/passera' alla stazione Monfalcone  alle ore 21:00 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 156 e' arrivato al binario 0 della stazione di Monfalcone
+Il treno 156 sta partendo dalla stazione Monfalcone alle ore 21:05
+Il treno 156 si fermera'/passera' alla stazione Trieste Airport  alle ore 22:20 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 156 e' arrivato al binario 0 della stazione di Trieste Airport
+Il treno 156 sta partendo dalla stazione Trieste Airport alle ore 22:25
+Il treno 767 sta partendo alle ore 22:30
+Il treno 156 si fermera'/passera' alla stazione Cervignano-Aquileia-Grado  alle ore 23:20 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 156 e' arrivato al binario 0 della stazione di Cervignano-Aquileia-Grado
+Il treno 156 sta partendo dalla stazione Cervignano-Aquileia-Grado alle ore 23:25
+
+		ESEMPIO 3
+INPUT: line_descriptiontxt + timetables_2.txt:
+Dati di input letti e controllati
+Il treno 322 sta partendo alle ore 06:40
+Il treno 322 si fermera'/passera' alla stazione Quarto D'Altino  alle ore 07:20 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 322 sta transitando nella stazione di Quarto D'Altino
+Il treno 322 ha superato 0 treni
+Il treno 322 si fermera'/passera' alla stazione S. Stino Di Livenza  alle ore 10:00 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 322 sta transitando nella stazione di S. Stino Di Livenza
+Il treno 322 ha superato 0 treni
+Il treno 166 sta partendo alle ore 10:00
+Il treno 322 si fermera'/passera' alla stazione Portogruaro-Caorle  alle ore 11:15 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 322 e' arrivato al binario 1 della stazione di Portogruaro-Caorle
+Il treno 166 si fermera'/passera' alla stazione Monfalcone  alle ore 11:35 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 166 e' arrivato al binario 0 della stazione di Monfalcone
+Il treno 1257 sta partendo alle ore 11:40
+Il treno 166 sta partendo dalla stazione Monfalcone alle ore 11:40
+Il treno 166 si fermera'/passera' alla stazione Trieste Airport  alle ore 12:30 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 166 e' arrivato al binario 0 della stazione di Trieste Airport
+Il treno 166 sta partendo dalla stazione Trieste Airport alle ore 12:35
+Il treno 1257 si fermera'/passera' alla stazione Quarto D'Altino  alle ore 12:40 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 1257 e' arrivato al binario 1 della stazione di Quarto D'Altino
+Il treno 166 si fermera'/passera' alla stazione Cervignano-Aquileia-Grado  alle ore 13:03 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 166 e' arrivato al binario 0 della stazione di Cervignano-Aquileia-Grado
+Il treno 166 sta partendo dalla stazione Cervignano-Aquileia-Grado alle ore 13:08
+Il treno 1257 si fermera'/passera' alla stazione S. Stino Di Livenza  alle ore 13:15 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 1257 e' arrivato al binario 1 della stazione di S. Stino Di Livenza
+Il treno 166 si fermera'/passera' alla stazione Latisana-Lignano-Bibione  alle ore 13:26 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 166 e' arrivato al binario 0 della stazione di Latisana-Lignano-Bibione
+Il treno 166 sta partendo dalla stazione Latisana-Lignano-Bibione alle ore 13:31
+Il treno 166 si fermera'/passera' alla stazione Portogruaro-Caorle  alle ore 13:49 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 166 e' arrivato al binario 0 della stazione di Portogruaro-Caorle
+Il treno 166 sta partendo dalla stazione Portogruaro-Caorle alle ore 13:54
+Il treno 166 si fermera'/passera' alla stazione S. Stino Di Livenza  alle ore 14:07 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 166 e' arrivato al binario 0 della stazione di S. Stino Di Livenza
+Il treno 166 sta partendo dalla stazione S. Stino Di Livenza alle ore 14:12
+Il treno 166 si fermera'/passera' alla stazione Quarto D'Altino  alle ore 14:25 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 166 e' arrivato al binario 0 della stazione di Quarto D'Altino
+Il treno 166 sta partendo dalla stazione Quarto D'Altino alle ore 14:30
+Il treno 166 si fermera'/passera' alla stazione Venezia Mestre  alle ore 14:53 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 166 e' arrivato al binario 0 della stazione di Venezia Mestre
+Arrivato alla stazione finale. Ha finito alle ore: 14:58
+Il treno 1257 si fermera'/passera' alla stazione Portogruaro-Caorle  alle ore 15:00 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 1257 e' arrivato al binario 3 della stazione di Portogruaro-Caorle
+Il treno 101 sta partendo alle ore 16:40
+Il treno 101 si fermera'/passera' alla stazione Monfalcone  alle ore 18:20 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 101 sta transitando nella stazione di Monfalcone
+Il treno 101 ha superato 0 treni
+Il treno 1257 si fermera'/passera' alla stazione Latisana-Lignano-Bibione  alle ore 20:00 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 1257 e' arrivato al binario 1 della stazione di Latisana-Lignano-Bibione
+Il treno 1257 sta partendo dalla stazione Latisana-Lignano-Bibione alle ore 20:05
+Il treno 1257 si fermera'/passera' alla stazione Cervignano-Aquileia-Grado  alle ore 20:23 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 1257 e' arrivato al binario 1 della stazione di Cervignano-Aquileia-Grado
+Il treno 101 si fermera'/passera' alla stazione Trieste Airport  alle ore 20:50 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 101 e' arrivato al binario 0 della stazione di Trieste Airport
+Il treno 101 sta partendo dalla stazione Trieste Airport alle ore 20:55
+Il treno 1257 si fermera'/passera' alla stazione Trieste Airport  alle ore 20:56 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 1257 e' arrivato al binario 1 della stazione di Trieste Airport
+Il treno 1257 si fermera'/passera' alla stazione Monfalcone  alle ore 21:24 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 1257 e' arrivato al binario 1 della stazione di Monfalcone
+Il treno 1257 si fermera'/passera' alla stazione Trieste Centrale  alle ore 21:52 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 1257 e' arrivato al binario 1 della stazione di Trieste Centrale
+Arrivato alla stazione finale. Ha finito alle ore: 21:57
+Il treno 101 si fermera'/passera' alla stazione Cervignano-Aquileia-Grado  alle ore 23:10 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 101 sta transitando nella stazione di Cervignano-Aquileia-Grado
+Il treno 101 ha superato 0 treni
+
+		ESEMPIO 4
+INPUT: line_descriptiontxt + timetables_3.txt:
+Dati di input letti e controllati
+Il treno 764 sta partendo alle ore 08:20
+Il treno 132 sta partendo alle ore 08:30
+Il treno 764 si fermera'/passera' alla stazione Monfalcone  alle ore 08:38 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 764 sta transitando nella stazione di Monfalcone
+Il treno 764 ha superato 0 treni
+Il treno 132 si fermera'/passera' alla stazione Quarto D'Altino  alle ore 08:48 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 132 sta transitando nella stazione di Quarto D'Altino
+Il treno 132 ha superato 0 treni
+Il treno 132 si fermera'/passera' alla stazione S. Stino Di Livenza  alle ore 09:04 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 132 sta transitando nella stazione di S. Stino Di Livenza
+Il treno 132 ha superato 0 treni
+Il treno 764 si fermera'/passera' alla stazione Trieste Airport  alle ore 09:10 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 764 e' arrivato al binario 0 della stazione di Trieste Airport
+Il treno 764 sta partendo dalla stazione Trieste Airport alle ore 09:15
+Il treno 132 si fermera'/passera' alla stazione Portogruaro-Caorle  alle ore 09:20 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 132 e' arrivato al binario 1 della stazione di Portogruaro-Caorle
+Il treno 764 si fermera'/passera' alla stazione Cervignano-Aquileia-Grado  alle ore 10:00 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 764 sta transitando nella stazione di Cervignano-Aquileia-Grado
+Il treno 764 ha superato 0 treni
+Il treno 1257 sta partendo alle ore 11:40
+Il treno 1257 si fermera'/passera' alla stazione Quarto D'Altino  alle ore 12:40 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 1257 e' arrivato al binario 1 della stazione di Quarto D'Altino
+Il treno 1257 si fermera'/passera' alla stazione S. Stino Di Livenza  alle ore 13:15 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 1257 e' arrivato al binario 1 della stazione di S. Stino Di Livenza
+Il treno 1257 si fermera'/passera' alla stazione Portogruaro-Caorle  alle ore 15:00 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 1257 e' arrivato al binario 3 della stazione di Portogruaro-Caorle
+Il treno 1257 si fermera'/passera' alla stazione Latisana-Lignano-Bibione  alle ore 20:00 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 1257 e' arrivato al binario 1 della stazione di Latisana-Lignano-Bibione
+Il treno 1257 sta partendo dalla stazione Latisana-Lignano-Bibione alle ore 20:05
+Il treno 156 sta partendo alle ore 20:20
+Il treno 1257 si fermera'/passera' alla stazione Cervignano-Aquileia-Grado  alle ore 20:23 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 1257 e' arrivato al binario 1 della stazione di Cervignano-Aquileia-Grado
+Il treno 1257 si fermera'/passera' alla stazione Trieste Airport  alle ore 20:56 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 1257 e' arrivato al binario 1 della stazione di Trieste Airport
+Il treno 156 si fermera'/passera' alla stazione Quarto D'Altino  alle ore 21:00 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 156 e' arrivato al binario 3 della stazione di Quarto D'Altino
+Il treno 1257 si fermera'/passera' alla stazione Monfalcone  alle ore 21:24 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 1257 e' arrivato al binario 1 della stazione di Monfalcone
+Il treno 1257 si fermera'/passera' alla stazione Trieste Centrale  alle ore 21:52 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 1257 e' arrivato al binario 1 della stazione di Trieste Centrale
+Arrivato alla stazione finale. Ha finito alle ore: 21:57
+Il treno 156 si fermera'/passera' alla stazione S. Stino Di Livenza  alle ore 22:20 con un ritardo di 0 rispetto alla tabella di marcia
+Il treno 156 e' arrivato al binario 3 della stazione di S. Stino Di Livenza
+Il treno 156 si fermera'/passera' alla stazione Portogruaro-Caorle  alle ore 23:20 con un ritardo di 0 rispetto alla tabella di marcia
+Ho occupato il parcheggio
+Il treno 922 sta partendo alle ore 23:20
